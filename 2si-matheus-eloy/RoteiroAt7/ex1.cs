@@ -15,6 +15,11 @@ class Ex1
                 decodificada[j] = codificada[i];
                 j++;
             }
+            else if(i !=0 && i!=codificada.Length -1  && codificada[i+1]=='p' && codificada[i-1]=='p' )
+            {
+                decodificada[j] = codificada[i];
+                j++;
+            }
 
         }
     }
