@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartProgram>Ex01</StartProgram>
+    <StartupObject>Ex02</StartupObject>
   </PropertyGroup>
 
 </Project>
